@@ -18,6 +18,7 @@ Seaborn
 Scikit-learn
 XGBoost
 Jupyter Notebook
+
 📊 Machine Learning Workflow
 Data Collection
 Data Preprocessing
@@ -25,16 +26,19 @@ Exploratory Data Analysis
 Feature Selection
 Model Training
 Prediction & Evaluation
+
 📈 Model Performance
 Achieved strong prediction accuracy using XGBoost Regressor
 Evaluated using:
 R² Score
 Mean Absolute Error (MAE)
+
 📂 Project Structure
 ├── Boston_Housing_Dataset.csv
 ├── House Price Prediction.ipynb
 ├── README.md
 └── Project_Report.pdf
+
 🎯 Key Learning Outcomes
 Understanding Regression Models
 Real-world ML Pipeline Implementation
